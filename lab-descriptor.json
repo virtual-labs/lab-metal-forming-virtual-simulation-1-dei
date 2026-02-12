@@ -15,14 +15,14 @@
     "name": "Upsetting Processes",
     "short-name": "upsetting-processes",
     "repo": "https://github.com/virtual-labs/exp-upsetting-processes-dei",
-    "tag": "v1.0.1,
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Extrusion Processes",
     "short-name": "extrusion-processes",
     "repo": "https://github.com/virtual-labs/exp-extrusion-processes-dei",
-    "tag": "v1.0.2,
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
