@@ -9,76 +9,76 @@
   "phase": 2,
   "collegeName": "DLBG",
   "baseUrl": "msvs1-dei.vlabs.ac.in",
-  "introduction": " The Metal Forming Virtual Simulation Lab (DEI) is a web-based laboratory designed to help students understand metal forming processes through interactive simulations. Metal forming involves shaping metals by plastic deformation using mechanical forces without removing material. The lab covers key industrial processes such as upsetting, extrusion, multi-step forging, hammer forging, orbital forming, hydro forming, stretch forming, sheet metal working, and ring compression tests, along with the study of upsetting and extrusion presses. These simulations enable learners to visualize material flow, deformation behavior, and the effect of process parameters in a safe and cost-effective virtual environment",
+  "introduction": " The Metal Forming Virtual Simulation Lab (DEI) is a web-based laboratory designed to help students understand metal forming processes through interactive simulations. Metal forming involves shaping metals by plastic deformation using mechanical forces without removing material. The lab covers key industrial processes such as upsetting, extrusion, multi-step forging, hammer forging, orbital forming, hydro forming, stretch forming, sheet metal working, and ring compression tests, along with the study of upsetting and extrusion presses. These simulations enable learners to visualize material flow, deformation behavior, and the effect of process parameters in a safe and cost-effective virtual environment.",
   "experiments": [
   {
     "name": "Upsetting Processes",
     "short-name": "upsetting-processes",
     "repo": "https://github.com/virtual-labs/exp-upsetting-processes-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1,
     "deploy": true
   },
   {
     "name": "Extrusion Processes",
     "short-name": "extrusion-processes",
     "repo": "https://github.com/virtual-labs/exp-extrusion-processes-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.2,
     "deploy": true
   },
   {
     "name": "Equipment’s Upsetting and Extrusion Presses",
     "short-name": "upsetting-extrusion-presses",
     "repo": "https://github.com/virtual-labs/exp-upsetting-extrusion-presses-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Multi Step Forging",
     "short-name": "multi-step-forging",
     "repo": "https://github.com/virtual-labs/exp-multistep-forging-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Hammer Forging",
     "short-name": "hammer-forging",
     "repo": "https://github.com/virtual-labs/exp-hammer-forging-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Orbital Forming",
     "short-name": "orbital-forming",
     "repo": "https://github.com/virtual-labs/exp-orbital-forming-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Hydro Forming",
     "short-name": "hydro-forming",
     "repo": "https://github.com/virtual-labs/exp-hydro-forming-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Stretch Forming",
     "short-name": "stretch-forming",
     "repo": "https://github.com/virtual-labs/exp-stretch-forming-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Sheet Metal Working",
     "short-name": "sheet-metal-working",
     "repo": "https://github.com/virtual-labs/exp-sheet-metal-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Ring Compression Test",
     "short-name": "ring-compression-test",
     "repo": "https://github.com/virtual-labs/exp-ring-compression-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
@@ -87,14 +87,14 @@
       "UG engineering students."
     ],
     "PG": [
-      "PG engineering students, faculty members, research scholars, and industry trainees"
+      "PG engineering students, faculty members, research scholars and industry trainees."
     ]
   },
   "objective": "<ul><li>To develop conceptual understanding of metal forming processes.</li><li>To study the influence of parameters such as load, friction, temperature, and die geometry.</li><li>To analyze material deformation, metal flow, and forming defects.</li><li>To understand the working principles of forming equipment and presses.</li></ul>",
   "courseAlignment": {
     "description": "The lab aligns with engineering courses such as Manufacturing Processes, Metal Forming Technology, Mechanical, Production, and Metallurgical Engineering. It supports university and AICTE-prescribed curricula by reinforcing theoretical concepts through virtual practical experiments.",
     "universities": [
-      ""
+      
     ]
 
   }
