@@ -92,9 +92,9 @@
   },
   "objective": "<ul><li>To develop conceptual understanding of metal forming processes.</li><li>To study the influence of parameters such as load, friction, temperature, and die geometry.</li><li>To analyze material deformation, metal flow, and forming defects.</li><li>To understand the working principles of forming equipment and presses.</li></ul>",
   "courseAlignment": {
-    "description": "",
+    "description": "The lab aligns with engineering courses such as",
     "universities": [
-      "The lab aligns with engineering courses such as Manufacturing Processes, Metal Forming Technology, Mechanical, Production, and Metallurgical Engineering. It supports university and AICTE-prescribed curricula by reinforcing theoretical concepts through virtual practical experiments."
+      "Manufacturing Processes, Metal Forming Technology, Mechanical, Production, and Metallurgical Engineering. It supports university and AICTE-prescribed curricula by reinforcing theoretical concepts through virtual practical experiments."
     ]
 
   }
